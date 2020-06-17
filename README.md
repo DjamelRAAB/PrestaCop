@@ -6,7 +6,7 @@ PrestaCop, a company specializing in service delivery for police forces, wants t
 PrestaCop
 ├── Analytics
 ├── Consummer
-├── Hadoop
+├── HDFS
 └── Producer
 ```
 
