@@ -1,0 +1,15 @@
+{"drone_id" : 1,"stat_message" : 0,"drone_latitude" : 40.613381623451296,"drone_longitude" : -74.07705623160051,"time" : 1593447912,"battery" : 100,"temperature" : 28}
+{"name" : "Fiver","age" : 4}
+{"drone_id" : 2,"stat_message" : 1,"drone_latitude" : 2.62717349667447,"drone_longitude" : 160.97850633300361,"time" : 1593447912,"battery" : 10,"temperature" : 14,"violation_code" : 4,"image" : 1}
+{"drone_id" : 3,"stat_message" : 2,"drone_latitude" : -40.82691541226919,"drone_longitude" : 74.84098906352119,"time" : 1593447912,"battery" : 100,"temperature" : -5}
+{"name" : "Fiver","age" : 4}
+{"drone_id" : 1,"stat_message" : 0,"drone_latitude" : 2.62717349667447,"drone_longitude" : 160.97850633300361,"time" : 1593447912,"battery" : 12,"temperature" : 14}
+{"drone_id" : 2,"stat_message" : 0,"drone_latitude" : 2.62717349667447,"drone_longitude" : 160.93850633300361,"time" : 1593447912,"battery" : 70,"temperature" : 14}
+{"drone_id" : 3,"stat_message" : 0}
+{"drone_id" : 3,"stat_message" : 0,"drone_latitude" : 2.62717349667447,"drone_longitude" : 160.92850637300361,"time" : 1593447912,"battery" : 0,"temperature" : -23}
+{"drone_id" : 1,"stat_message" : 1,"drone_latitude" : 2.62717349667447,"drone_longitude" : -160.91850633300361,"time" : 1593447912,"battery" : 12,"temperature" : 4,"violation_code" : 2}
+{"drone_id" : 2,"stat_message" : 2,"drone_latitude" : 2.62717349667447}
+{"drone_id" : 1,"stat_message" : 1,"drone_latitude" : 2.62717349667447,"drone_longitude" : 160.97850633300361,"time" : 1593447912,"battery" : 0,"temperature" : 76}
+{"drone_id" : 3,"stat_message" : 2,"drone_latitude" : -2.62717349667447,"drone_longitude" : 160.97850633300361,"time" : 1593447912,"battery" : 0,"temperature" : 14}
+{"drone_id" : 4,"stat_message" : 1,"drone_latitude" : -2.62717349667447,"drone_longitude" : 160.97850633300361,"time" : 1593447912,"battery" : 0,"temperature" : 14,"violation_code" : 1,"image" : 3}
+{"name" : "Fiver","age" : 4}
