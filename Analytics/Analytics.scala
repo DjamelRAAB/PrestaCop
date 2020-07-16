@@ -76,7 +76,7 @@ object Analytics extends App {
   
   /*
   Is there more failing devices when the weather
-  is hot or when the weather is called
+  is hot or when the weather is cold
   */
   val statsFailingTemperature = textFile.map(x=>{
     val split = x.split(";")
